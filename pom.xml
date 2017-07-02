@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>ru.otus</groupId>
+    <artifactId>all</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+
+    <modules>
+        <module>L1.1</module>
+        <module>L10.1.1</module>
+        <module>L10.1.2</module>
+        <module>L10.2.1</module>
+        <module>L10.2.2</module>
+        <module>L10.2.3</module>
+        <module>L11.1</module>
+        <module>L11.2.1</module>
+        <module>L11.2.2</module>
+        <module>L2.1</module>
+        <module>L2.1.2</module>
+        <module>L3.1</module>
+        <module>L3.2</module>
+        <module>L4.1</module>
+        <module>L4.2</module>
+        <module>L5.1</module>
+        <module>L5.2.1</module>
+        <module>L5.2.2</module>
+        <module>L5.2.3</module>
+        <module>L6.2.1</module>
+        <module>L6.2.2</module>
+        <module>L7.1</module>
+        <module>L8.1</module>
+        <module>L8.2.1</module>
+        <module>L8.2.2</module>
+        <module>L9.1</module>
+        <module>L9.2.1</module>
+        <module>L9.2.2</module>
+    </modules>
+
+</project>
