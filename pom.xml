@@ -15,6 +15,9 @@
     </properties>
 
     <modules>
+        <module>L16.2.1</module>
+        <module>L16.2.2</module>
+
         <module>L16.1.1</module>
         <module>L16.1.2</module>
 
